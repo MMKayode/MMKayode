@@ -1,0 +1,1381 @@
+<!DOCTYPE HTML>
+
+<html lang="en">
+
+<head>
+
+	<meta charset="UTF-8">
+
+	<meta name="description" content="Welcome to Prof. Olugbemiro Jegede's website. This page provides the detailed information on Professor Jegede and is a landing point for the site.">
+
+	<title>Home</title>
+
+    <link href='images/favicon.ico' type='image/x-icon' rel='shortcut icon'>
+
+    <link href='http://fonts.googleapis.com/css?family=Droid+Sans|Anton|Oswald' rel='stylesheet' type='text/css'>
+
+    <link href="css/style.css" rel="stylesheet" type="text/css" media="all">
+
+	<script src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
+
+    <script type="text/javascript" src="js/jquery-1.7.1.min.js"></script>    
+
+    <script type="text/javascript" src="js/scripts.js"></script>
+
+    <!--[if lt IE 9]>
+
+  	<script type="text/javascript" src="js/html5.js"></script>
+
+    <link rel="stylesheet" href="css/ie.css" type="text/css" media="all">
+
+    <![endif]-->
+
+	<!--[if lt IE 8]>
+
+		<div style=' clear: both; text-align:center; position: relative;'>
+
+			<a href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home?ocid=ie6_countdown_bannercode"><img src="http://storage.ie6countdown.com/assets/100/images/banners/warning_bar_0000_us.jpg" border="0" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today." /></a>
+
+		</div>
+
+	<![endif]-->
+
+
+
+
+
+
+
+
+
+</head>
+
+<body>  
+
+    <div id="glob">
+
+        <div class="spinner">&nbsp;</div>
+
+        <!-- HEADER -->
+
+        <header>
+
+            <div class="container_12">
+
+                <div class="grid_12">
+
+                    <div class="wrapper">
+
+                        <h1><a href="/#!/page_main" class="logo">OJ</a></h1>
+
+                        <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Professor Olugbemiro Jegede</h2>
+
+                            <strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Oguruefa of Ogoriland 
+
+                            	<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Immediate past Secretary to the Government of Kogi State 
+
+                            	<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Immediate past Secretary General, Association of African Universities (AAU)
+
+                            	<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Foundation Vice Chancellor of the National Open University of Nigeria
+
+                            	<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Member of the Advisory Board of the United Nations University Institute for Natural Resources in Africa 
+
+                            	
+
+                            	
+
+</strong>
+
+</div>
+
+                </div>
+
+            </div>
+
+        </header>
+
+        <!-- END HEADER -->
+
+        <!-- CONTENT -->
+
+        <section id="content">
+
+            <ul>           
+
+                <li id="page_main">
+
+                    <div class="slider">
+
+						<ul class="items">
+
+							<li><img src="images/awardPicture01a.jpg" alt="ICDE Award01"/></li>
+
+							<li><img src="images/awardPicture3.jpg" alt="ICDE Award Pix3"/></li>
+
+							<li><img src="images/awardPicture1.jpg" alt="ICDE Award1"/></li>
+
+							<li><img src="images/awardPicture2.jpg" alt="ICDE Award2"/></li>
+
+							<li><img src="images/awardPicture4.jpg" alt="ICDE Award Pix4"/></li>
+
+							<li><img src="images/awardPicture5.jpg" alt="ICDE Award Pix5"/></li>
+
+							<li><img src="images/awardPicture9.jpg" alt="ICDE Award Pix9"/></li>
+
+							<li><img src="images/awardPicture7.jpg" alt="ICDE Award Pix7"/></li>
+
+							
+
+							
+
+							
+
+							<li><img src="images/page1_pic2.jpg" alt="Prof_Jegede2"/></li>
+
+							<li><img src="images/page1_pic3.jpg" alt="Prof_Jegede3"/></li>
+
+							<li><img src="images/page1_pic4.jpg" alt="Prof_Jegede4"/></li>
+
+							<li><img src="images/page1_pic1.jpg" alt="Prof_Jegede1"/></li>
+
+						</ul>
+
+					</div>
+
+                </li>
+
+                <li id="page_about">
+
+                  <div class="container_12">
+
+                        <div class="grid_12 alpha">
+
+                            <div class="wrapper pad1">
+
+                                <div class="grid_6 prefix_1 suffix_1 alpha">
+
+                                    <h3>Profile</h3>
+
+                                    <p class="bold">Professor Olugbemiro Jegede </p>
+
+                                    <p>Professor Olugbemiro Jegede is foundation Vice Chancellor of the National Open University of Nigeria. He is the immediate past Secretary to the Kogi State Government and also the immediate past Secretary-General and Chief Executive of  the Association of African Universities, a position that he assumed on December 1, 2010 after a successful tenure in Nigeria on a special assignment in Higher Education.</p>
+
+                                    <ul class="list1">
+
+                                        <li><img src="images/page2_pic1.jpg" alt="Prof_Jegede_pic1"/></li>
+
+                                        <li><img src="images/page2_pic2.jpg" alt="Prof_Jegede1_pic2"/></li>
+
+                                        <li class="nomar"><img src="images/page2_pic3.jpg" alt="Prof_Jegedepic3"/></li>
+
+                                    </ul>
+
+                                    <a href="page_about_more.html" class="readMore" target="_blank">read more on profile</a>
+
+                                   
+
+                                </div>
+
+                                <div class="grid_3 suffix_1 omega">
+
+                                    <h3>latest News</h3>
+
+                                     <p class="fontStyle1">28. 07. 2016.</p> 
+
+                                    <p class="pad2">Prof. Jegede delivered a keynote titled   <a href="http://www.olugbemirojegede.com/keynotes/Intellectual_Output_for_Innovation_and_Enhancement_ZOU_July_2016.pdf" target="_blank"> Intellectual Output for Innovation and Enhancement of Socio-Economic Transformation   </a> at the Zimbabwe Open University.</p>
+
+                                    <p class="fontStyle1">14. 07. 2016.</p>
+
+                                    <p>Prof. Olugbemiro Jegede delivered a <a href="http://www.olugbemirojegede.com/odl_practices_in_tertiary_institutions_in_nigeria.pdf" target="_blank"> lecture</a> at the University of Ibadan Annual Distance Learning Centre Distinguished Lecture and Stakeholdersâ€™ Forum.  </p>
+
+                                    <p class="fontStyle1">16. 10. 2015.</p>
+
+                                    <p class="pad2">Prof. Jegede wins the ICDE Prize of Excellence for Lifelong Contribution to the field of open and distance education worldwide.  <a href="http://www.olugbemirojegede.com/page_ICDE_Award.html" >View details</a></p>
+
+                                    
+
+                                    
+
+                                    
+
+                                   
+
+                                  <!-- <p class="fontStyle1">08. 06. 2015.</p>
+
+                                    <p>Paper delivered at the June 2015 Education Innovation Africa conference in Kenya.<a href="http://www.olugbemirojegede.com/innovative_partnership_in_education_in_Africa.pdf" target="_blank"> Download paper! </a> </p>      -->
+
+                                    
+
+                                    
+
+                                    <!--<p class="fontStyle1">12. 03. 2013.</p>
+
+                                    <p>Prof. Olugbemiro Jegede  delivers keynote at the COLâ€™s Seventh Pan-Commonwealth Forum on Open Learning (PCF7) <a href="http://olugbemirojegede.com/pcf7_keynote.html" target="_blank"> View details  </a> </p> -->
+
+                                    <!--<p class="fontStyle1">01. 07. 2012.</p>
+
+                                    <p class="pad2">Prof. Olugbemiro Jegede sworn-in as the new Secretary to the State Government (SSG), Kogi state by the state governor, Captain Idris Wada.</p>-->
+
+                               
+
+                                    
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </li>
+
+                <li id="page_services">
+
+                  <div class="container_12">
+
+                        <div class="grid_12 alpha">
+
+                            <div class="wrapper pad1">
+
+                                <div class="grid_6 prefix_1 suffix_1 alpha">
+
+                                    <h3>You can make choice here</h3>
+
+                                    <div class="pad4">
+
+                                        <img class="pic1" src="images/page3_pic1.jpg" alt="pic1"/>
+
+                                        <div>
+
+                                            <p class="pad3"><span class="bold">Aenean nonum hend mauris phasellu porta fusce suscipit varius mi. </span><br>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui fusce feugiat malesuada odio morbi nunc odio gravida <a href="/#!/page_more" class="readMore2">[...]</a></p>
+
+                                        </div>
+
+                                    </div>
+
+                                    <div class="pad4">
+
+                                        <img class="pic1" src="images/page3_pic2.jpg"alt="pic2"/>
+
+                                        <div>
+
+                                            <p class="pad3"><span class="bold">Donec in velit vel ipsum auctor pulvi
+
+    narproin ullamcorper urna et.</span><br>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui fusce feugiat malesuada odio morbi nunc odio gravida <a href="/#!/page_more" class="readMore2">[...]</a></p>
+
+                                        </div>
+
+                                    </div>                                        
+
+                                    <a href="/#!/page_more" class="readMore" target="_blank">read more Donec </a>
+
+                                </div>
+
+                                <div class="grid_3 suffix_1 omega">
+
+                                    <h3>services list</h3>
+
+                                    <ul class="list2">
+
+                                        <li><a href="#">Fusce euismod consequat</a></li>
+
+                                        <li><a href="#">Lorem ipsum dolor sit amet</a></li>
+
+                                        <li><a href="#">Consectetuer adipiscing elit</a></li>
+
+                                        <li><a href="#">Pellentesque sed dolor</a></li>
+
+                                        <li><a href="#">Aliquam congue fermentum</a></li>
+
+                                        <li><a href="#">Mauris accumsan nulla</a></li>
+
+                                        <li><a href="#">Sed in lacus ut enim adipis</a></li>
+
+                                    </ul>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div> 
+
+                </li>
+
+                <li id="page_clients">
+
+                  <div class="container_12">
+
+                        <div class="grid_12 alpha">
+
+                            <div class="wrapper pad1">
+
+                                <div class="grid_3 suffix_1 prefix_1 alpha">
+
+                                    <h3>membership</h3>
+
+                                    <img class="mar1" src="images/page4_pic1.jpg" alt="picPage4"/>
+
+                                    <p><span class="bold">Eum iure reprehenderit qui</span><br>Proin dictum elementum velit. Fusce euismod conseq ante. Lorem ipsum dolor sit amet consectetuer adipiscing elit. Pellentesque sed dolor.</p>
+
+                                </div>
+
+                                <div class="grid_7 omega">
+
+                                    <h3>our clients</h3>
+
+                                    <ul class="list3">
+
+                                        <li>
+
+                                            <a href="#"><img src="images/page4_logo1.jpg" alt="pic5"/></a>
+
+                                            <p class="bold"><a href="#" class="readMore2">Company Name</a></p>
+
+                                        </li>
+
+                                        <li>
+
+                                            <a href="#"><img src="images/page4_logo2.jpg" alt="pic6"/></a>
+
+                                            <p class="bold"><a href="#" class="readMore2">Company Name</a></p>
+
+                                        </li>
+
+                                        <li>
+
+                                            <a href="#"><img src="images/page4_logo3.jpg" alt="pic7"/></a>
+
+                                            <p class="bold"><a href="#" class="readMore2">Company Name</a></p>
+
+                                        </li>
+
+                                        <li>
+
+                                            <a href="#"><img src="images/page4_logo4.jpg" alt="pic8"/></a>
+
+                                            <p class="bold"><a href="#" class="readMore2">Company Name</a></p>
+
+                                        </li>
+
+                                    </ul>                          
+
+                                    <a href="#!/page_more" class="readMore">view all1</a>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </li>
+
+                <li id="page_products">
+
+                  <div class="container_12">
+
+                        <div class="grid_10 prefix_1 suffix_1 alpha">
+
+                            <div class="wrapper pad1">
+
+                                <h3>Interests</h3>
+
+                                <ul class="list4">
+
+                                    <li>
+
+                                        <a href="images/image-blank.png"><img class="mar2" src="images/page5_pic1.jpg" alt="pic10"/></a>
+
+                                        <p><span class="bold">Sports &amp; Leisure </span><br>Squash Racket, Jogging, Soccer, Athletics, Golf, Listening to Music
+
+                                    </li>
+
+                                    <li>
+
+                                        <a href="images/image-blank.png"><img class="mar2" src="images/page5_pic2.jpg" alt="pic11"/></a>
+
+                                        <p><span class="bold">Professional &amp; Academic </span><br>See <a href="#!/research_interest">Research and Professional Interests</a>;Developing and brainstorming new research ideas
+
+                                    </li>
+
+                                    <li class="nomar">
+
+                                        <a href="images/image-blank.png"><img class="mar2" src="images/page5_pic3.jpg" alt="pic12"/></a>
+
+                                        <p><span class="bold">Others </span><br>
+
+    Play around with software especially those which relate to Statistical Analysis, Presentation, and Publishing. Surf the Internet.</p>
+
+                                    </li>
+
+                                </ul>
+
+                               
+
+                            </div>
+
+                        </div>
+
+                    </div>    
+
+                </li>
+
+                <li id="page_mail">
+
+                  <div class="container_12">
+
+                        <div class="grid_12 alpha">
+
+                            <div class="wrapper pad1">
+
+                                <div class="grid_4 prefix_1 suffix_1 alpha">
+
+                                    <h3>Postal Address</h3> 
+
+                                    <div id="map_canvas">Map</div>
+
+                                    <p><span class="bold">Emeritus Professor, National Open University of Nigeria, University Village, Jabi ABUJA,
+
+Nigeria
+
+</span><br><span class="w1">Telephone:</span>+234 58 220408,+2347032657793<br>+234 8034116363<br>E-mail: <a href="#" class="readMore">jegedeo@olugbemirojegede.com</a></p>                               
+
+                                </div>
+
+                                <div class="grid_5 suffix_1 omega">
+
+                                    <h3>Contact Form</h3>
+
+                                    <form action="#" id="ContactForm">
+
+                                        <fieldset>
+
+        					               <div>
+
+                                                <div class="success"> Contact form submitted!<br>
+
+                   						           <strong>We will be in touch soon.</strong>
+
+                                                </div>
+
+                                                <label class="name">
+
+                                                    <span class="bg"><input type="text" value="Name:" class="input"></span>
+
+                                                    <span class="error">*This is not a valid name.</span> <span class="empty">*This field is required.</span>
+
+                                                </label>
+
+                    							<label class="email">
+
+                        						  <span class="bg"><input type="text" value="Email:" class="input"></span>
+
+                        						  <span class="error">*This is not a valid email address.</span> <span class="empty">*This field is required.</span>
+
+                                                </label>
+
+                        						<label class="phone">
+
+                        						  <span class="bg"><input type="tel" value="Phone:" class="input"></span>
+
+                        						  <span class="error">*This is not a valid phone number.</span> <span class="empty">*This field is required.</span>
+
+                                                </label>
+
+                                                <label class="message">
+
+                        						  <span class="bg2"><textarea rows="1" cols="2">Message:</textarea></span>
+
+                        						  <span class="error">*The message is too short.</span> <span class="empty">*This field is required.</span>
+
+                                                </label>
+
+                                            </div>
+
+                                            <div class="contact_btns">
+
+                                                <a href="#" data-type="reset" class="readMore">clear</a>
+
+                                                <a href="#" data-type="submit" class="readMore">send</a>
+
+                                            </div>                                        
+
+          							   </fieldset>                                    
+
+                                    </form>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div> 
+
+                </li>
+
+                <li id="page_privacy">
+
+                  <div class="container_12">
+
+                        <div class="grid_10 prefix_1 suffix_1 alpha">
+
+                            <div class="wrapper pad1">
+
+                                <h3>Privacy Policy</h3>
+
+                                <p><span class="bold">Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. </span><br>Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a, lorem. Maecenas tristique orci ac sem. Duis ultricies pharetra magna. Donec accumsan malesuada orci. Donec sit amet eros. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Mauris fermentum dictum magna. Sed laoreet aliquam leo. Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. </p>
+
+                                <p><span class="bold">Quisque nulla. Vestibulum libero nisl, porta vel, scelerisque eget, malesuada at, neque. Vivamus eget nibh.</span><br>Etiam cursus leo vel metus. Nulla facilisi. Aenean nec eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse sollicitudin velit sed leo. Ut pharetra augue nec augue. Nam elit magna, hendrerit sit amet, tincidunt ac, viverra sed, nulla. Donec porta diam eu massa. Quisque diam lorem, interdum vitae, dapibus ac, scelerisque vitae, pede. Donec eget tellus non erat lacinia fermentum. Donec in velit vel ipsum auctor pulvinar. Proin ullamcorper urna et felis. </p>
+
+                                <p><span class="bold">Vestibulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod consequat ante.</span><br>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. Nulla venenatis. In pede mi, aliquet sit amet, euismod in, auctor ut, ligula. Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis, lobortis dignissim, pulvinar ac, lorem. Vestibulum sed ante. Donec sagittis euismod purus. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque.</p>
+
+                                <p>E-mail: <a href="#" class="readMore">info@demolink.org</a></p>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </li>
+
+                <li id="page_more">
+
+                  <div class="container_12">
+
+                        <div class="grid_10 prefix_1 suffix_1 alpha">
+
+                            <div class="wrapper pad1">
+
+                                <h3>Profile</h3>
+
+                                <p>Professor Olugbemiro Jegede is the Secretary-General and Chief Executive of 
+
+
+
+the Association of African Universities, a position that he assumed on 
+
+
+
+December 1, 2010 after a successful tenure in Nigeria on a special 
+
+
+
+assignment in Higher Education.</p>
+
+<p> Professor Olugbemiro Jegede, at the invitation of the Federal Government of Nigeria to restart open and distance learning activities in Nigeria assumed position as the National Coordinator of the National Open and Distance Learning Programmes in 2001 and subsequently was appointed in 2003 as the founding and current Vice Chancellor of the National Open University of Nigeria (NOUN).</p>
+
+<p> Professor Jegede, as Vice Chancellor of the fledgling institution, has concerned himself with activities and responsibilities associated with the establishment of the new institution. These include the development of the Blueprint, the university strategic plan, capacity building in ODL for Nigeria and the West Africa sub-region, course material development, admissions, hiring and training of all cadres of staffing for the young nationally funded university and forging partnership with renowned and well established distance teaching and open learning institutions and organisations across the world.</p>
+
+<p> Prior to his special assignment in Nigeria, Professor Jegede served in various capacities in different parts of the world including being the Staff in charge of the M.Ed programme by ODL at the Curtin University of Technology Science and Mathematics Education Centre, Perth, Australia; founding Director, Centre for Research in Distance &amp; Adult Learning, The Open University of Hong Kong; Foundation Head, Research &amp; Evaluation Unit Distance Education Centre, The University of Southern Queensland, Toowoomba, Australia; and Foundation Dean and Professor of Education; Head, Department of Education, Faculty of Education, The University of Abuja, Nigeria.
+
+<p><a href="/#!/page_more33" class="readMore2" target="_blank">[...]</a></p>
+
+
+
+
+
+                            </div>
+
+                        </div>
+
+                    </div> 
+
+                </li>
+
+                
+
+                
+
+                <li id="page_journals">
+
+                  <div class="container_12">
+
+                        <div class="grid_10 prefix_1 suffix_1 alpha">
+
+                            <div class="wrapper pad1">
+
+                                <h3>Refereed Journal Articles</h3>
+
+                        
+
+<p>Jegede, O. J. (2011). When The Unthinkable Happens â€“  Editorial. <strong>Open Praxis</strong>.  Special Edition, 1-4.</p>
+
+<p>Zhang, W. Y; <strong>Jegede,  O. J</strong>; Tsui, C; Ng, F &amp; Kwok, L. (2002) Comparing single mode ODL  institutions in Asia: Management styles,  pedagogical activities and educational outcomes, <strong>Indian Journal of Open Learning</strong>, Vol. 11, No. 2, 7-21. <br />
+
+  <br />
+
+  Jegede, O.J; Zhang, W. Y &amp; You, J. (2002) An  investigation of the learning problems experienced by inmate students in Hong  Kong prisons, <strong>Staff and Educational  Development International</strong>, Vol. 6, No. 2, 169-180. <br />
+
+  <br />
+
+  Jegede, O. J. (2001).  The Meaning of Online Delivery of InstructionÂ   in Open and Distance Learning. <strong>Global  E-Journal of Open, Flexible &amp; Distance Education</strong>,  1(1), available at <a href="http://www.ignou.ac.in/">http://www.ignou.ac.in/</a><br />
+
+  Jegede,  O. J. (2001). Facilitating  and Sustaining Interest Through an On-Line Distance Peer-Tutoring System in a  Cooperative Learning Environment. <strong>VUG journal</strong> (in  press). </p>
+
+ <p>Jegede,  O. J. &amp; Zhang, W. Y. (2001). Conference on Research in Distance &amp; Adult  Learning in Asia (CRIDALA2000). <strong>Global  E-Journal of Open, Flexible &amp; Distance Education</strong>, 1(1), available  atÂ Â  <a href="http://www.ignou.ac.in/">http://www.ignou.ac.in/</a></p>
+
+<p>Tenenbaum, G., Naidu, S., <strong>Jegede,  O.,</strong> &amp; Austin, J. (2001). Constructivist pedagogy in conventional on-campus  and distance learning practice: an exploratory investigation. <strong>Learning and Instruction</strong>,  11(2), 87-111.
+
+</p>
+
+<a href="page_journals.html" class="readMore" target="_blank">view more journal articles</a>
+
+
+
+
+
+
+
+
+
+                            </div>
+
+                        </div>
+
+                    </div> 
+
+                </li>
+
+                
+
+                <li id="page_tributes">
+
+                  <div class="container_12">
+
+                        <div class="grid_10 prefix_1 suffix_1 alpha">
+
+                            <div class="wrapper pad1">
+
+                                <h3>Tributes and Felicitations</h3>
+
+ <p>Tributes poured in for Professor Olugbemiro Jegede on his 60th birthday and thanksgiving celebrations.</p>
+
+
+
+<p>The high points of the birthday and thanksgiving celebration at the Obudu Mountain Resort Cross River State, Nigeria were;
+
+Champagne breakfast at the Waterpark &amp; Gardens via cable cars, Thanksgiving Service at the Holy Mountain,traditional dancing &amp; drinks at the conference center and birthday evening dinner party</p>
+
+
+
+<p>Click <a href="tributes.pdf" target="_blank">here to download a pdf copy </a> of some of the tributes and felicitations</p>
+
+
+
+ </div>
+
+                        </div>
+
+                    </div> 
+
+                </li>
+
+                
+
+                <li id="research_interest">
+
+                  <div class="container_12">
+
+                        <div class="grid_10 prefix_1 suffix_1 alpha">
+
+                          <div class="wrapper pad1">
+
+                                <h3>Research and Professional Interests</h3>
+
+ <p>
+
+1.	Applied Cognitive Science in Open and Distance Learning. <br />
+
+
+
+2.	Psycho-Social Environment and Learning with particular reference to the Socio-cultural influences.<br />
+
+
+
+3.	Instructional and Learning Strategies in Science Education and Open and distance learning.<br />
+
+
+
+4.	Development and Evaluation of Curriculum Materials.<br />
+
+
+
+5.	Teacher Preparation for Secondary Education.<br />
+
+
+
+6.	Science, Technology and Society Education Issues.
+
+<br />
+
+7.	Knowledge Engineering and Instructional Materials design.<br />
+
+
+
+8.	Concept Mapping as Learning and Teaching strategies.
+
+<br />
+
+9.	Communication Technologies and Instructional Design.<br />
+
+</p>
+
+                           </div>
+
+                        </div>
+
+                    </div> 
+
+                </li>
+
+                
+
+                
+
+                
+
+                <li id="page_awards">
+
+                  <div class="container_12">
+
+                        <div class="grid_10 prefix_1 suffix_1 alpha">
+
+                            <div class="wrapper pad1">
+
+                                <h3>Major Awards</h3>
+
+
+
+<p>
+
+
+
+<strong>2012- </strong>         Regional Integration and Leadership Award  by the Nigeria High Commission Accra, Ghana on 30th March 2012 for exemplary, distinguished and results oriented service to Africa in higher Education. <br /><br />
+
+
+
+<strong>2010-</strong>	Prestigious Chieftaincy Award (the Ogurefa of Ogoriland) by the Ogori Community of Kogi State for Services to the Nation, Kogi State and Ogori Community on 15 October 2010.<br /><br />
+
+
+
+<strong>2010-</strong>	Nehemiah Award by the OgoriMagongo Missionary Diocese of the Anglican Communion for exemplary services to young Diocese created in 2009.<br /><br />
+
+
+
+<strong>2010-</strong>	Award for Exemplary Service to the Nation, Ogori Community and Humanity by Ogori Descendants Union, 16 April 2010<br /><br />
+
+
+
+<strong>2010-</strong>	Outstanding Leadership Award by the Kogi State Council of the Nigeria Union of Journalists, 16th March 2010.<br /><br />
+
+
+
+<strong>2009- </strong>        African Leadership Star Award for Excellence in Tertiary Education for 2009 â€“ Given in Paris, France on 20 February 2010<br /><br />
+
+
+
+<strong>2009-</strong>	          Best Vice Chancellor of the Year and Gold Award by National Association of Nigerian Students (NANS).<br /><br />
+
+
+
+<strong>2009-</strong>	          Man of the Year Award by North Central States Students      Association of Nigeria.<br /><br />
+
+<a href="page_major_awards_more.html " class="readMore" target="_blank">view more awards</a>
+
+
+
+</p>
+
+
+
+
+
+                            </div>
+
+                        </div>
+
+                    </div> 
+
+                </li>
+
+                
+
+              <li id="page_publications">
+
+                  <div class="container_12">
+
+                        <div class="grid_10 prefix_1 suffix_1 alpha">
+
+                            <div class="wrapper pad1">
+
+                                <h3>Publications</h3>
+
+
+
+<p><a href="/#!/page_more33" class="readMore2" target="_blank">[...] </a></p>
+
+
+
+
+
+                            </div>
+
+                        </div>
+
+                    </div> 
+
+                </li>
+
+              
+
+              
+
+              
+
+ <li id="page_keynotes">
+
+                  <div class="container_12">
+
+                        <div class="grid_10 prefix_1 suffix_1 alpha">
+
+                            <div class="wrapper pad1">
+
+                                <h3>INVITED KEYNOTES AT MAJOR CONFERENCES</h3>
+
+
+
+
+
+	<p>Jegede, O. J. (2017). <a href="http://www.olugbemirojegede.com/keynotes/colnounodlworkshopAbuja30May2017b.pdf" target="_blank"> Introduction to Fundamentals of Open and Distance Learning</a>. Keynote Address at the COL & NOUN RETRIDAL Conference on Open & Distance Learning Held at the National Open University of Nigeria, Abuja Nigeria on Tuesday, 30th May 2017</p>
+
+	<p>Jegede, O. J. (2017). <a href="http://www.olugbemirojegede.com/keynotes/colnounworkshopabuja30may2017arevised.pdf" target="_blank"> Introduction to Fundamentals of Open and Distance Learning</a>. Keynote Address at the COL & NOUN RETRIDAL Conference on Open & Distance Learning Held at the National Open University of Nigeria, Abuja Nigeria on Tuesday, 30th May 2017</p>
+
+	<p>Jegede, O. J. (2016). <a href="http://www.olugbemirojegede.com/keynotes/cheWorkshopOctober2016B.pdf" target="_blank"> Reflections on Quality Promotion and Capacity Development in Higher Education in Africa</a>. Keynote Address at the Southern African Regional Conference on Quality Assurance in Higher Education Held at the Southern African Regional Conference Pretoria South Africa on Thursday, 28th October 2016 </p><br />
+
+	<p>Jegede, O. J. (2016). <a href="http://www.olugbemirojegede.com/keynotes/Intellectual_Output_for_Innovation_and_Enhancement_ZOU_July_2016.pdf" target="_blank"> Intellectual Output for Innovation and Enhancement of Socio-Economic Transformation</a>. Being a Keynote Address at the Zimbabwe Open University International Research Conference Held at the Rainbow Towers Hotel, Harare, Zimbabwe, Thursday, 28th to Friday, 29th  July, 2016 </p>
+
+	<p>Jegede, O. J. (2016). <a href="http://www.olugbemirojegede.com/keynotes/odl_practices_in_tertiary_institutions_in_nigeria.pdf" target="_blank"> Open and Distance Learning Practices in Nigerian Higher Institutions of Learning</a>. Being an Invited Keynote Address at the University of Ibadan Distance Learning Centre 3rd Annual Distinguished Lecture and Stakeholdersâ€™ Forum Held at the International Conference Centre, University of Ibadan, Thursday, 14th &amp; Friday, 15 July, 2016 </p>
+
+ 
+
+	<p>Jegede, O. J. (2016). <a href="http://www.olugbemirojegede.com/keynotes/The_Role_of_Private_Higher_Education_Institutions_in_Sustainable_Dev.pdf" target="_blank"> The Role of Private Higher Education in Sustainable Development</a>. Being an Invited Keynote Address to the 14th International Conference on Private Higher Education in Africa Held at the African Union Conference Centre, Addis Ababa, Ethiopia, 12 to 14 July, 2016 </p>
+
+                                                     
+
+	<!--<p>Jegede, O. J.(2016). <a href="http://www.olugbemirojegede.com/keynotes/Federal_University_of_Oye_Ekiti_and_ODL_Practices.pdf" target="_blank"> Human Capital Development in Nigeria Through Open and Distance Learning: Whither Federal University of Oye-Ekiti?</a> Being an Invited Special Address to an Extra-Ordinary Session of the Senate of the Federal University of Oye-Ekiti which held on Friday, 8 July, 2016 </p>-->
+
+
+
+	<!--<p>Jegede, O. J. (2016). <a href="http://www.olugbemirojegede.com/keynotes/Blossom_Annual_Career_Summit_Paper_June_2016.pdf" target="_blank"> Global Job Crises: Curriculum Misfits, Reform Perspectives and Strategic Imperatives </a>. Being a Keynote Address to the 2nd Annual Blossom Career &amp; Entrepreneurship Summit, with the Theme: Curriculum Re-Examination: Skills Opportunities &amp; the Dilemma of Academic Ambitions, Organised by the Best of the World Ent. Ltd held at The Haven, Oba Akinjobi Way, Ikeja GRA, Lagos, Thursday, 2nd and Friday, 3rd June, 2016 </p> -->
+
+ 
+
+	<!--<p>Jegede, O. J. (2015). <a href="http://www.olugbemirojegede.com/keynotes/innovative_partnership_in_education_in_Africa.pdf" target="_blank"> Developing Innovative Partnerships and Programmes to Deliver High Quality Affordable Education Ecosystems in Sub-Saharan Africa</a>. An Invited Presentation at a Panel discussion at the Education Innovation Africa Conference held at the Visa Oshwal Centre, Nairobi, Kenya, from 8-10 June, 2015</p> -->
+
+  
+
+  	
+
+ 
+
+  <a href="page_keynote_more.html" class="readMore" target="_blank">view more keynotes</a>
+
+  
+
+ 
+
+  
+
+  
+
+ 
+
+  <br />
+
+
+
+
+
+
+
+
+
+
+
+                            </div>
+
+                        </div>
+
+                    </div> 
+
+                </li>
+
+              
+
+              
+
+           <li id="page_keynotes2">
+
+                  <div class="container_12">
+
+                        <div class="grid_10 prefix_1 suffix_1 alpha">
+
+                            <div class="wrapper pad1">
+
+                                <h3>INVITED KEYNOTES AT MAJOR CONFERENCES 2</h3>
+
+
+
+
+
+<p>Jegede, O. J. (2002) Science, Technology and Mathematics Educational Research Standards in Nigeria: Whose Standards and What Standards? An invited keynote address at the 4 th Annual Conference of the Nigeria Association for Science Education Research (NASER) held at the University of Jos, Plateau State, 25 th â€“ 29 th November, 2002</p>
+
+<p>Jegede, O. J. (2002). The Role of Broadcasting in ODL Development in Nigeria. An invited Lecture at the National Television Authority (NTA) Annual General Managersâ€™ Conference, Chelsea Hotel, Abuja, 15 th October, 2002.</p>
+
+<p>Jegede, O. J. (2002). Teacher Education, ODL and Leaner Support. An invited lecture at the Provost of Colleges of Education Workshop held at Abuja NCCE Headquarters, 16 th October, 2002.</p>
+
+
+
+<p>Jegede, O. J. (2002). Open and Distance learning and Professional Teacher Development. An invited presentation at the World Teachers Day Celebration, with the theme: Teachers Create Dialogue Everyday., Abuja, Nigeria, 4 th October, 2002</p>
+
+<p>Jegede, O. J. (2002). Skewed, static and Insensate Science Education: What Went Wrong? An invited memorial lecture at the combined meeting of the 43 rd Annual Conference of the Science Teachers Association of Nigeria (STAN) and the Commonwealth Association for Science, Technology and Mathematics Education (CASTME) Conference held at the River State University of Technology, Port-Harcourt, 19 th â€“ 24 th August, 2002.</p>
+
+<p>Jegede, O. J. (2002). The Place of Digital Education in the Nigerian Army of the 21 st Century. An invited Guest lecture at the Nigerian Army Education Corps and School Biennial Training Conference 2002 held at the Command Mess 1, Marina, Lagos, 6 th -10 th May.</p>
+
+
+
+
+
+                            </div>
+
+                        </div>
+
+                    </div> 
+
+                </li>    
+
+              
+
+   <li id="page_books">
+
+                  <div class="container_12">
+
+                        <div class="grid_10 prefix_1 suffix_1 alpha">
+
+                            <div class="wrapper pad1">
+
+                                <h3>Books</h3>
+
+<p>Jegede, O. J. (2011).  Red-flag Alert on Emerging Challenges of Higher Education in Africa.  In Adebisi Balogun (Ed.). In Search of the Route to National Technological  Development; A Compendium of Foundation and Convocation Lectures Vol II. FUTA,  (p.156-175).</p>
+
+<p>Jegede, O. J. (2010). The  Future of University Education in Nigeria: Distance Education in `the  Universities. In I. Oloyede (ed.). University  Education in Nigeria.</p>
+
+<p>Jegede, O. J. (2001).  Distance education in Hong Kong. In O.J.  Jegede &amp; G. Shive (Eds.). <strong>Open  &amp; Distance Learning in Asia-Pacific Region</strong>. The Open University of  Hong Kong Press.</p>
+
+<p>Shive, G., &amp; Jegede,  O. J. (2001). Introduction: Trends and issues on ODL in the Asia  pacific region. In O.J. Jegede &amp; G. Shive (Eds.). <strong>Open &amp; Distance Learning in Asia-Pacific Region</strong>. The  Open University of Hong Kong Press.</p>
+
+<p>Jegede, O. J.Â   (2000). The wedlock between technology and open and distance education.  In Evans, T D &amp; Nation, D E (eds). <strong>Changing  University Teaching: reflections on creating Educational technologies</strong>.  (p. 45-55.Â  London, Kogan. Page. </p>
+
+<p>Jegede, O. J. (1999).  An African perspective on scientific culture. In E.  Paren and G. Stacey (eds). <strong>Paths to  prosperity: Science and technology in the Commonwealth 1999/2000 </strong>(p.  207-209). London:  Kensington Publications Limited.</p>
+
+
+
+<p><a href="page_books.html" class="readMore" target="_blank">view more published books</a></p>
+
+
+
+
+
+
+
+                            </div>
+
+                        </div>
+
+                    </div> 
+
+                </li>           
+
+                
+
+                
+
+                <li id="page_books2">
+
+                  <div class="container_12">
+
+                        <div class="grid_10 prefix_1 suffix_1 alpha">
+
+                            <div class="wrapper pad1">
+
+                                <h3>Books ..Contd</h3>
+
+          <p>                      
+
+ <strong> Jegede, O. J. &amp; Shive, G. (2001)</strong>. <em>Open &amp; Distance Learning in Asia-Pacific Region</em>. The Open University of Hong Kong Press. (forthcoming). </p>
+
+<p><strong>Carr, R., Jegede, O. J., Wong, Tat-meng &amp; Yuen, Kin-sun. (1999)</strong>. <em>The Asian Distance </em><em>Learner. </em><em>Hong Kong</em>: The Open university of Hong Kong Press.</p>
+
+
+
+<p><strong>Jegede, O. J. (1998)</strong> Popularising scientific and technological culture in African Commonwealth countries â€“ A report on the Expert Group Meeting at Lilongwe, Malawi, London: Commonwealth Secretariat.</p>
+
+<p><strong>Jegede, O. J., Oyabanji, P.K., Brown, D. P. and Brathwaite, W. (1992)</strong>. <em>New Integrated </em><em>Science. Pupilsâ€™ Book 3. The </em><em>Caribbean</em><em> Edition</em>, London: Macmillan Publishers Ltd.</p>
+
+<p><strong>Jegede, O. J., Oyebanji, P. K., Brown, D. P., and Braithwaite, W. (1991)</strong>. <em>New Integrated Science. Pupilsâ€™ Book 2. The Carribean Edition</em> London: Macmillan Publishers Ltd.</p>
+
+
+
+<p><strong>Jegede, O. J., Oyebanji, P. K., Brown, D. P.(1990)</strong>. <em>New Integrated Science. Pupilâ€™s Book 3</em>. London: Macmillan Publishers Ltd. (Nigerian Edition). </p>
+
+<p><strong>Jegede, O. J., Oyebanji, P. K., Brown, D. P.(1990)</strong>. <em>New Integrated Science. Pupilâ€™s Book 3</em>. London: Macmillan Publishers Ltd. (West African Edition). </p>
+
+
+
+
+
+
+
+
+
+                            </div>
+
+                        </div>
+
+                    </div> 
+
+                </li>
+
+                
+
+                <li id="page_others">
+
+                  <div class="container_12">
+
+                        <div class="grid_10 prefix_1 suffix_1 alpha">
+
+                            <div class="wrapper pad1">
+
+                                <h3>Other Publications</h3>
+
+<p>Taylor, J.C.;  Jegede, O.J.; and Hunter, R. (1994) Audiographic communication:Â  The Optel Telewriter trialâ€™ (37 pages).Â  Toowoomba, Australia:Â   University   of Southern Queensland. (ERIC  Document Reproduction Service No. ED365841).</p>
+
+<p>Walkington, J.; Jegede,  O.J. and Naidu, S. (1993) An Investigation into Studentsâ€™ Disposition to the  Use of Objectives in Distance Learning Materials (19 pages). (ERIC Document  Reproduction Service No. ED360477).</p>
+
+<p>Jegede, O.J. and  Noordink, P. (1993) The Role of Critical Thinking Skills in Undergraduate Study  as Perceived by University Teachers Across Academic Disciplines (21 pages). (ERIC  Document Reproduction Service No. ED362122).</p>
+
+<p>Jegede, O.J. (1993)  African Cultural Perspectives and the Teaching of Science (15 pages). (ERIC  Document Reproduction Service No. ED365526).</p>
+
+<p>Jegede, O.J. (1993)  Distance Education Research Priorities for Australia:Â  A Study of the Opinions of Distance Educators  and Practitioners (22 pages). (ERIC Document Reproduction Service No.  ED360475).</p>
+
+<p>Jegede, O.J. (1993)  Expert Opinions About Distance Education Research in Developing Countries (15  pages). (ERIC Document Reproduction Service No. ED360478).</p>
+
+<p>Jegede, O.J. and Kirkwood, J. (1992)  Studentsâ€™ Anxiety in Learning Through Distance Education (16 pages). (ERIC  Document Reproduction Service No. ED360476).</p>
+
+<!--<p>Jegede, O.J. (1992) A  Distance Education Research Agenda.Â  A  Survey of Expert Opinions from Developed and Developing Countries (16 pages). (<u>ERIC  Document Reproduction Service No. ED355417)</u>.</p> -->
+
+
+
+
+
+
+
+
+
+                            </div>
+
+                        </div>
+
+                    </div> 
+
+                </li>
+
+                
+
+                 <li id="page_book_chapters2">
+
+                  <div class="container_12">
+
+                        <div class="grid_10 prefix_1 suffix_1 alpha">
+
+                            <div class="wrapper pad1">
+
+                                <h3>Book Chapters .. Contd</h3>
+
+
+
+
+
+<p><strong>Jegede, O. J. (1999)</strong>. â€˜Science Education in Nonwestern Culture: Towards a Theory of Collateral Learningâ€™ in Semali, Ladislaus M and Kincheloe, Joe L. (Eds.) <em>What is Indigenous Knowledge?</em> Voices from the Academy, 119-142.</p>
+
+<p><strong>Jegede, O. J. and Solomon, J (1999)</strong>. â€˜Promoting a Popular Science &amp; Technology Cultureâ€™ in Sankaran Ramanathan (eds.) <em>Popularising Science and Technolocy: Some Asian Case Studies.</em> Asian Media Information and Communication Centre, 5-12.</p>
+
+
+
+<p> <strong>Jegede, O. J. (1998)</strong> â€˜The Knowledge base for Learning Science and Technology Educationâ€™ in Naidoo, O and Savage, M (Eds.) African Science and Technology Education into the new millennium, Durban; Juta and Co Ltd, 151-176.</p>
+
+<p> <strong>Jegede, O. J. (1995)</strong> â€˜Student Evaluation of Distance Teachingâ€™ in Brew, A., Jackson, M., Lublin, J. and Prosser, M. (Eds). Judging the Quality of Teaching: Approaches to University-wide Student Feedback, Sydney: The Centre for Teaching and Learning, University of Sydney, Chapter 10,105-119.</p>
+
+
+
+</p>
+
+
+
+                            </div>
+
+                        </div>
+
+                    </div> 
+
+                </li>
+
+                
+
+                <li id="page_journal_articles">
+
+                  <div class="container_12">
+
+                        <div class="grid_10 prefix_1 suffix_1 alpha">
+
+                            <div class="wrapper pad1">
+
+                                <h3>Journal Articles</h3>
+
+                                
+
+<p><strong>JOURNAL ARTICLES 1996-2001</strong></p>
+
+<p><strong>Taplin, M. &amp; Jegede, O. (2001)</strong>. Gender differences in factors influencing achievement of distance education students. <strong> Open Learning</strong>, 16 (2), 133-153.</p>
+
+
+
+<p><strong>Tenenbaum, G., Naidu, S., Jegede, O., &amp; Austin, J. (2001)</strong>. Constructivist pedagogy inconventional on-campus and distance learning practice: an exploratory investigation. Learning and instruction, 11(2), 87-111.</p>
+
+<p> <strong>Jegede, O. J. (2000)</strong>. Contextualising research methodologies in Open Distance Learning. <strong>Staff and Educational Development International</strong>, 4(1), 49-54.</p>
+
+<p> <strong>Jegede, O., Taplin, M., &amp; Chan, S.L. (2000)</strong>. Trainee Teachersâ€™ perceptions of their knowledge about expert teaching. <strong> Educational Research</strong>. 42(3), 287-308</p>
+
+
+
+<p> <strong>Jegede, O.J. (1999)</strong>. Distance Education â€“ What distance? <strong> FID Review</strong>. Special issue on â€˜Distance Education: Current Impact, Future Trendsâ€™ 1(2/3), 5-7</p>
+
+<p> <strong>Jegede, O.J. (1999)</strong>. Quantum mechanics, relativity, and the use of technology in open and distance learning, <strong> FID Review</strong>, Special issue on â€˜Distance Education: Current Impact, Future Trends, 1(2/3), 53-61.</p>
+
+
+
+<p><a href="/#!/page_Journal_full" class="readMore2" target="_blank">[view more journal articles]</a></p>
+
+
+
+
+
+                            </div>
+
+                        </div>
+
+                    </div> 
+
+                </li>
+
+                
+
+                <li id="page_conference_publications">
+
+                  <div class="container_12">
+
+                        <div class="grid_10 prefix_1 suffix_1 alpha">
+
+                            <div class="wrapper pad1">
+
+                                <h3>CONFERENCE PRESENTATIONS</h3>
+
+                                
+
+
+
+<h4>CONFERENCE  PROCEEDINGS</h4>
+
+
+
+<p>Jegede,  O. J., Taplin, M., &amp; Chan, S. L. (1999). Trainee Teachers' Perception of  Features of Expert Science and Mathematics Teacher Education&quot; <strong>Proceedings of The International  Conference on Teacher Education</strong>, Hong Kong Institute of Education.</p>
+
+<p>Fan, R.Y.K., Taplin, M., Chan, M.S.C., Yum, J.C.K.  &amp; Jegede, O. (October 1999). â€˜Effective Student Support Services â€“ an  Achievement-Oriented Approachâ€™. <strong>Proceedings  of the 13th Annual Conference of the Asian Association of Open  Universities</strong>, Beijing, 14th-17th October, 1999,  organised by The Central Radio &amp; TV University, Beijing, China, pp. 60-72.</p>
+
+<p>Jegede, O., Fan, R.Y.K., Chan, M.S.C., Yum, J.C.K.  &amp; Taplin, M. (October 1999). â€˜Locus of Control and Metacognition in Open  and Distance Learning: A Comparative Study of Low and High Achieversâ€™. <strong>Proceedings of the 13th  Annual Conference of the Asian Association of Open Universities</strong>,  Beijing, 14th-17th October, 1999, organised by The  Central Radio &amp; TV University, Beijing, China, pp. 73-101.</p>
+
+<p>Zhang, Weiyuan, Jegede, Olugbemiro, Ng, Fowie, Kwok,  Louisa &amp; Tsui, Cecilia (1999) â€˜A comparative study of the administrative  styles, educational processes, and outcomes of selected Asian open  universitiesâ€™, <strong>Proceedings of the  13th Annual Conference of AAOU</strong>, Beijing, 14-17 October 1999, 233-242. <br />
+
+  <br />
+
+  Tsui, Cecilia,  Zhang, Weiyuan, Jegede, Olugbemiro, Ng, Fowie &amp; Kwok, Louisa (1999)  â€˜Perception of management styles of open &amp; distance learning institutions  in Asia: a comparative studyâ€™, <strong>Proceedings  of the 13th Annual Conference of AAOU</strong>, Beijing, 14-17 October 1999, 190-202.</p>
+
+ 
+
+
+
+<p><a href="page_conferences.html" class="readMore2" target="_blank">[view more conference proceedings]</a></p>
+
+
+
+
+
+                            </div>
+
+                        </div>
+
+                    </div> 
+
+                </li>
+
+                
+
+               
+
+               <li id="page_photos">
+
+                  <div class="container_12">
+
+                        <div class="grid_10 prefix_1 suffix_1 alpha">
+
+                            <div class="wrapper pad1">
+
+                                <h3>Photo Gallery</h3>
+
+                                <p>
+
+                                Coming shortly
+
+                                </p>
+
+
+
+<p><a href="/#!/page_more33" class="readMore2">[...]</a></p>
+
+
+
+
+
+                            </div>
+
+                        </div>
+
+                    </div> 
+
+                </li>
+
+                
+
+                
+
+                
+
+            </ul>   
+
+        </section>
+
+        <!-- END CONTENT -->
+
+        <!-- FOOTER -->
+
+        <footer>
+
+            <!-- MENU -->
+
+            <nav class="menu">
+
+                <ul id="menu">
+
+                    <li><a href="/#!/page_main"><span>main page</span><strong>Welcome page</strong></a></li>
+
+                    <li class="with_ul"><a href="#!/page_about"><span>about </span><strong> profile </strong></a>
+
+                        <ul class="submenu_1">
+
+                            <li><a href="#!/page_about">Profile</a></li>                                
+
+                            <li><a href="#!/research_interest">research interests</a></li> 
+
+							<li><a href="http://scholar.google.com/citations?user=WLoWwYgAAAAJ">Google Scholar Citations </a></li>							
+
+                            <li><a href="#!/page_tributes">tributes</a></li>               				    
+
+                            <li><a href="#!/page_awards">awards</a></li>
+
+                            <li><a href="cv/online_resume_v22.html">online cv</a></li>
+
+                           
+
+               				</ul>
+
+                    </li>
+
+                    <li class="with_ul"><a href="#!/page_journals"><span>Publications</span><strong>Research</strong></a>
+
+                    <ul class="submenu_1">
+
+                            <li><a href="#!/page_keynotes">keynotes</a></li>
+
+                           <!-- <li><a href="page_journals.html">journal articles</a></li> -->
+
+                             <li><a href="#!/page_journals">journal articles</a></li>                               
+
+                            <li><a href="#!/page_books">books</a></li>   
+
+                            <li><a href="#!/page_conference_publications">conference presentations</a></li>            				    
+
+                            <li><a href="#!/page_others">Others</a></li>               				    
+
+                           
+
+                            
+
+           				</ul>
+
+                    </li>
+
+                    <li><a href="images/gallery/index.html" target="_blank"><span>Portfolio</span><strong>Photos</strong></a></li>
+
+                    <li><a href="#!/page_products"><span>Interests </span><strong>personal</strong></a></li>
+
+                    <li class="no_bg"><a href="#!/page_mail"><span>Contact</span><strong>Stay in touch</strong></a></li>
+
+                    
+
+            	</ul>
+
+   	        </nav>
+
+            <!-- END MENU -->
+
+<div class="container_12">
+
+                <div class="wrapper">
+
+                    <div class="grid_12">
+
+                        <p class="priv_text">2015 &copy; <a href="#!/page_privacy">O Jegede</a></p> 
+
+                        <!-- {%FOOTER_LINK} -->  
+
+                    </div>
+
+                </div>                
+
+            </div>                     
+
+        </footer>
+
+        <!-- END FOOTER -->
+
+    </div>
+
+</body>
+
+</html>
